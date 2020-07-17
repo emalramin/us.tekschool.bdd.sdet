@@ -41,3 +41,9 @@
 2020-06-28 20:44:57,324 [main] INFO Logger_File - yes to subscribe is selected
 2020-06-28 20:44:57,605 [main] INFO Logger_File - privacy policy is selected
 2020-06-28 20:44:59,136 [main] INFO Logger_File - Continue Button clicked
+2020-07-16 20:09:17,810 [main] INFO Logger_File - click on Register
+2020-07-16 20:09:20,333 [main] INFO Logger_File - Register Form was filled successfully
+2020-07-16 20:09:20,484 [main] INFO Logger_File - yes to subscribe is selected
+2020-07-16 20:09:20,664 [main] INFO Logger_File - privacy policy is selected
+2020-07-16 20:09:22,384 [main] INFO Logger_File - Continue Button clicked
+2020-07-16 20:09:27,488 [main] INFO Logger_File - Assertion passed
